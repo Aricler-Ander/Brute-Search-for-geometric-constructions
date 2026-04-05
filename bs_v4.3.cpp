@@ -320,7 +320,7 @@ int main()
     Graph graph;
     Manager manager;
     
-    cout<<"brute_search v4.2"<<endl;
+    cout<<"brute_search v4.3"<<endl;
     cout<<"Enter E limit (exclude given Es):"<<endl;
     cin>>limit;
     cout<<"Select the tool (0=compass only,1=straightedge only,2=both):"<<endl;
